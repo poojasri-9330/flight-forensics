@@ -1,6 +1,6 @@
-pandas
 streamlit
-scikit-learn
+pandas
 plotly
 folium
 requests
+scikit-learn
